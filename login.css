@@ -1,0 +1,53 @@
+body{
+    background:url("food3.jpg")
+}
+
+.heading1 h3
+{
+    text-align: center;
+    color:rgb(185, 239, 9);
+    
+}
+.login
+{
+    width:380px;
+    height: 350px;
+    margin: 180px auto;
+    padding:10px 20px 30px;
+
+    border:1px solid rgba(149, 140, 140, 0.5);
+    color:rgb(220, 13, 13);
+    font-size:25px;
+    border-radius: 8px;;
+
+}
+
+.input1 input
+{
+    width:100%;
+    border:1px solid black;
+    font-size:.9em;
+    box-sizing: border-box;
+    padding:10px,10px;
+    border-radius:8px;
+    margin:5px 0px 10px;
+    
+}
+
+input:focus{
+    background-color: aqua;
+}
+
+
+.btn
+{
+    text-align: center;
+   
+}
+
+button{
+    font-size: 20px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+

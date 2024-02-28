@@ -1,0 +1,63 @@
+body{
+    background-image: url("food3.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.signup
+{
+    width:380px;
+    height: 400px;
+    margin-top:140px;
+    margin-left: 520px;
+    margin-bottom: 80px;
+    
+    padding:10px 20px 30px;
+    border: 1px solid rgba(150, 148, 148, 0.5);
+    border-radius: 10px;
+    color:white;
+    font-size: 1.2em;
+}
+
+.heading1
+{
+    text-align: center;
+    color:rgb(5, 228, 53);
+    font-size: 1.5em;
+}
+
+.input2 input{
+    font-size: 19px;
+    display:block;
+    width: 95%;
+    padding:3px;
+    margin:3px;
+    color:rgb(43, 41, 41);
+}
+
+.input2 input:hover{
+    background-color: aqua;
+}
+
+
+.radio
+{
+    margin: 8px;
+}
+.radio:focus
+{
+  background-color: blue;
+}
+
+
+.btn
+{
+    text-align: center;
+   
+}
+
+button{
+    font-size: 1.2em;
+    margin: 10px;
+    background-color: aqua;
+    border-radius: 8px;
+}
